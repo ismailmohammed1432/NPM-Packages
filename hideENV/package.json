@@ -1,0 +1,19 @@
+{
+  "name": "hideenv",
+  "version": "1.0.0",
+  "description": "\"this is an readline project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "es6"
+  ],
+  "author": "Mohammed Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
